@@ -77,7 +77,7 @@ const items = [
     type: 'Articulate Rise Course',
     description: 'A full onboarding course for Home Health Aide candidates, built entirely in Articulate Rise using the client\'s branding. Combines structured learning paths with interactive assessments.',
     tags: ['Articulate Rise', 'Healthcare', 'Onboarding'],
-    image: 'https://images.pexels.com/photos/7659564/pexels-photo-7659564.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=800',
     link: 'https://360.articulate.com/review/content/e16f4434-6fdd-479c-99e0-e9cfa413e2d6/review',
     linkLabel: 'View Course',
     note: 'Password: demo',
