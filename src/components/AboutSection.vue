@@ -4,7 +4,7 @@
       <div class="about__image-col">
         <div class="about__image-frame">
           <img
-            src="https://images.pexels.com/photos/3760809/pexels-photo-3760809.jpeg?auto=compress&cs=tinysrgb&w=600"
+            src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600"
             alt="Professional workspace"
             class="about__photo"
           />

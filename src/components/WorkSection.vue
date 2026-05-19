@@ -64,7 +64,7 @@ const items = [
     type: 'Script & Slide Authoring · Intel® Network Builders',
     description: 'Wrote scripts and created slides for four courses within Intel\'s 11-module Telco Cloud Academy certification series: Course 1 (Intro to Ethernet Controllers), Course 3 (QuickAssist Technology / QAT), Course 6 (Open Virtual Switching / OvS), and Course 9 (Data Plane Development Kit / DPDK 101). Collaborated with Intel SMEs to translate highly technical networking content into clear, structured instructional writing for a global developer audience.',
     tags: ['Intel', 'Script Writing', 'Telco Cloud', 'DPDK', 'OvS', 'QAT', 'SME Collaboration'],
-    image: 'https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=800',
     link: 'https://builders.intel.com/university/coursescategory/intel-telco-cloud-academy/introduction-to-intel-infrastructure-management-technologies/courseslist/jd',
     linkLabel: 'View Course',
     note: null,
