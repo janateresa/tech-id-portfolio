@@ -51,7 +51,7 @@ const items = [
     type: 'Script & Reading Authoring · Coursera / Google Career Certificates',
     description: 'Wrote multiple scripts and readings for this course in the Grow with Google Cloud Data Analytics certification series, published on Coursera. The course covers data analytics fundamentals across four modules — analytical thinking, data concepts, toolbox setup, and data ethics — and has been viewed by over 16 million learners globally. Collaborated with Google SMEs and instructional designers to ensure technical accuracy and learning impact.',
     tags: ['Google', 'Coursera', 'Script Writing', 'Data Analytics', 'SME Collaboration'],
-    image: 'https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=800',
     link: 'https://www.coursera.org/learn/foundations-data',
     linkLabel: 'View Course',
     note: null,
